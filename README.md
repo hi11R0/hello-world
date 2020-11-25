@@ -1,2 +1,5 @@
 # hello-world
-testing
+
+Hi 
+I really like this program 
+hopefully i can use it better 
